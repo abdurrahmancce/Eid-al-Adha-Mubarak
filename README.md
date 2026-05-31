@@ -50,6 +50,9 @@ This desktop application displays an animated Eid al-Adha celebration screen fea
 
 <img width="843" height="701" alt="image" src="https://github.com/user-attachments/assets/853a3132-785f-4f7b-8a8b-69630a9394cd" />
 
+## ```Send Eid Wishes```
+
+<img width="474" height="303" alt="image" src="https://github.com/user-attachments/assets/7c3694b6-2419-48a0-84fa-17daa44b2310" />
 
 ---
 
